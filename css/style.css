@@ -1,0 +1,16 @@
+.extra-large{
+    font-size: 65px;
+}
+.w-10{
+    width: 10%;
+}
+.h-10{
+    height: 10%;
+}
+.mybtn:hover{
+    background-color: green;
+}
+.mybtn{
+    background-color: blue;
+    transition: 0.5s all;
+}
